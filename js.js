@@ -19,7 +19,7 @@ function Prueba(){
         document.getElementById("img1").style.display ='block';
         document.getElementById("risa").style.display ='block';
         document.getElementById("risa2").style.display ='block';
-        asignarTextoElemento('p','Deja de estar de flojo');
+        asignarTextoElemento('p','Me debes un azulito ');
 
     }
     
